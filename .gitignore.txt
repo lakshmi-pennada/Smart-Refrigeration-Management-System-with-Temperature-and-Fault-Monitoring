@@ -1,0 +1,9 @@
+# Vivado temporary folders
+*.cache
+*.hw
+*.ip_user_files
+*.sim
+*.srcs/utils_1
+.Xil
+*.jou
+*.log

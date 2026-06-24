@@ -1,0 +1,4 @@
+Running: xsim.dir/final_industrial_freezer_behav/xsimk.exe -simmode gui -wdb final_industrial_freezer_behav.wdb -simrunnum 0 -socket 55169
+Design successfully loaded
+Design Loading Memory Usage: 12516 KB (Peak: 12516 KB)
+Design Loading CPU Usage: 46 ms

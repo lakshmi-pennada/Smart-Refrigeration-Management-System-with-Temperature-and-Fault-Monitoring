@@ -1,0 +1,1 @@
+-wto "d82664ddbdb54fdc8f20a6c995d34960" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_freezer_controller_behav" "xil_defaultlib.tb_freezer_controller" "xil_defaultlib.glbl" -log "elaborate.log" 
