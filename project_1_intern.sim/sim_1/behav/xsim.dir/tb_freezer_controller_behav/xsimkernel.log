@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_freezer_controller_behav/xsimk.exe -simmode gui -wdb tb_freezer_controller_behav.wdb -simrunnum 0 -socket 55200
+Design successfully loaded
+Design Loading Memory Usage: 12068 KB (Peak: 12068 KB)
+Design Loading CPU Usage: 62 ms
